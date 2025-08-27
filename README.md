@@ -5,18 +5,18 @@
 
 - 📚 I’m studying Computer Information Systems with a concentration of being a Programmer/Analyst.
 
-- 🤔 I'm learning 
+- 🤔 I'm learning about HTML, C++, a tad bit of Java, 
 
 - 👨🏻‍💻 Love programming and resolving problems
 
-- 🧠 I like to learn something new
+- 🧠 In my free time I want to learn how to become a better programmer
 
-- 📫 How to reach me **dejohns2@wsc.edu**
+- 📫 How to reach me **kutalujosue@gmail.com**
 
-- 💬 Connect? Lets get social @ **https://www.linkedin.com/in/dljohnson1234/**
+- 💬 Connect? Lets get social @ **linkedin soon**
 
 
-I have held numerous IT positions including software analyst and project management for world market leaders. I have a wide range of technology experience ranging from microcomputer support to programming in numerous languages utilizing a variety of databases and hardware platforms.
+Currently, I have had no jobs in th IT field but, I did job shadow the IT department at Columbus Hospital.
 
 ### Education
 
