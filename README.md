@@ -5,7 +5,7 @@
 
 - 📚 I’m studying Computer Information Systems with a concentration of being a Programmer/Analyst.
 
-- 🤔 I use daily .java, .cpp, .py, .sql
+- 🤔 I'm learning 
 
 - 👨🏻‍💻 Love programming and resolving problems
 
