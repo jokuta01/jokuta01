@@ -20,10 +20,4 @@ Currently, I have had no jobs in th IT field but, I did job shadow the IT depart
 
 ### Education
 
-- MSOM, IT Management, Wayne State College, 2016
-
-- B.A., Computer Information Systems/Web Analyst, Wayne State College, 2014
-
-- A.A., Northeast Community College, 2014
-
-- AAS, Computer Programming, Northeast Community College, 1984
+- Looking to get a Computer Information Systems/Analyst Programmer, in 2029
