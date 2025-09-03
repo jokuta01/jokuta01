@@ -20,4 +20,4 @@ Currently, I have had no jobs in th IT field but, I did job shadow the IT depart
 
 ### Education
 
-- Looking to get a Computer Information Systems/Analyst Programmer, in 2029 
+- Looking to get a B.A Computer Information Systems/Analyst Programmer, in 2029 
