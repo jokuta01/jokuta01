@@ -5,7 +5,7 @@
 
 - 📚 I’m studying Computer Information Systems with a concentration of being a Programmer/Analyst.
 
-- 🤔 I'm learning about HTML, C++, a tad bit of Java, 
+- 🤔 I'm learning about HTML, C++, and Java
 
 - 👨🏻‍💻 Love programming and resolving problems
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kutalujosue@gmail.com**
 
-- 💬 Connect? Lets get social @ **linkedin soon**
+- 💬 Connect? Lets get social @ **https://www.linkedin.com/in/josue-kutalu-19530a397/?trk=opento_sprofile_goalscard**
 
 
 Currently, I have had no jobs in th IT field but, I did job shadow the IT department at Columbus Hospital.
